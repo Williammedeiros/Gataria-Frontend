@@ -4,8 +4,8 @@ const prod = {
 };
 
 const dev = {
-    catalogAPIurl: "http://localhost:3010/catalog",
-    imagesAPIurl: "http://localhost:3020/images"
+    catalogAPIurl: "http://dev.gataria.example/catalog",
+    imagesAPIurl: "http://dev.gataria.example/images"
 };
 
 const config =
